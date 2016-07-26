@@ -1,24 +1,20 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
-
 # Basic
 name:               "knck.github.io"
 
 # URL
-baseurl:            "/"
+baseurl:            "/blog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
 # Markdown
-markdown:           rdiscount
+markdown:           kramdown
 
 # Navigation
 nav:
   - name:           "meta"
-    href:           "//knck.github.io/meta"
+    href:           "//knck.github.io/blog/meta"
   - name:           "contact"
-    href:           "//knck.github.io/contact"
+    href:           "//knck.github.io/blog/contact"
 
 # Sass
 sass:
