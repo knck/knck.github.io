@@ -16,7 +16,7 @@ nav:
   - name:           "meta"
     href:           "//knck.github.io/meta"
   - name:           "contact"
-    href:           "//knck.github.io/blog/contact"
+    href:           "//knck.github.io/contact"
 
 sass:
   style:            :compressed
