@@ -1,26 +1,26 @@
-# Basic
-name:               "knck.github.io"
+name:               "knck"
+decription:         "reks.io?"
 
-# URL
-baseurl:            "/blog"
+url:                "//knck.github.io"
+author:             "knck"
+twitter:
+  username:         "kknck"
+
+baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
-# Markdown
 markdown:           kramdown
 
-# Navigation
 nav:
   - name:           "meta"
-    href:           "//knck.github.io/blog/meta"
+    href:           "//knck.github.io/meta"
   - name:           "contact"
     href:           "//knck.github.io/blog/contact"
 
-# Sass
 sass:
   style:            :compressed
 
-# Scopes
 defaults:
   -
     scope:
@@ -34,3 +34,6 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+gems:
+  - jekyll-seo-tag
