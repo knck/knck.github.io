@@ -1,6 +1,6 @@
 ---
-title: about
-permalink: /about/
+title: contact
+permalink: /contact/
 ---
 
 <p class="lead"><a href="http://github.com/knck">knck</a> .</p>
