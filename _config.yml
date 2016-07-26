@@ -1,7 +1,12 @@
-name:               "knck"
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "reks.io"
 
 # URL
-baseurl:            "/knck"
+baseurl:            "/blog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -10,10 +15,10 @@ markdown:           rdiscount
 
 # Navigation
 nav:
-  - name:           "about"
-    href:           "//gfjaru.github.io/Kiko/about"
-  - name:           "github"
-    href:           "//github.com/gfjaru/Kiko/releases"
+  - name:           "meta"
+    href:           "//reks.io/blog/meta"
+  - name:           "XXX"
+    href:           "//github.com/knck"
 
 # Sass
 sass:

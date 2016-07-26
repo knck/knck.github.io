@@ -1,8 +1,9 @@
 ---
-title: About
+title: about
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://knck.github.io/">knck</a> is a  [@knck](https://twitter.com/kknck).
+<p class="lead"><a href="http://github.com/knck">knck</a> .</p>
+reks.io is a team.
 
 
