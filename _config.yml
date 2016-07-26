@@ -6,7 +6,7 @@
 name:               "knck.github.io"
 
 # URL
-baseurl:            "/blog"
+baseurl:            "/"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
@@ -16,9 +16,9 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "meta"
-    href:           "//knck.github.io/blog/meta"
+    href:           "//knck.github.io/meta"
   - name:           "contact"
-    href:           "//knck.github.io/blog/contact"
+    href:           "//knck.github.io/contact"
 
 # Sass
 sass:
