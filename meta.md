@@ -3,6 +3,6 @@ title: meta
 permalink: /meta/
 ---
 
-thanks for visiting my site
-this blog (or notepad) is just for a personal reference
-do not hesitate to contact me
+<p class="lead">thanks for visiting my site</p>
+<p>this blog (or notepad) is just for a personal reference</p>
+<p>do not hesitate to contact me</p>
