@@ -2,7 +2,3 @@
 title: contact
 permalink: /contact/
 ---
-
-
-
-
